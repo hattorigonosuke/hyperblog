@@ -4,6 +4,9 @@ un blog para el curso de git y github
 
 >-niñita
 
-en este curso vemos:
--comandos de git
--usar github
+## en este curso vemos:
+* comandos de git
+* usar github
+* creado por Roger
+* incluye ejemplos 
+* disponible pa todo el mundo
